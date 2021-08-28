@@ -1,10 +1,10 @@
 <?php
 
 // Declare variables
-$servername = "localhost";
-$username = "dijisolu_jonas";
-$password = "hi0ugD&B]A{e";
-$database = "dijisolu_contact";
+$servername = "";
+$username = "";
+$password = "";
+$database = "";
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $database);
